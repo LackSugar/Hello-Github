@@ -1,2 +1,3 @@
 # Hello-Github
-Just try to creat a repostitory
+
+This file is trying to commit branch to main 
